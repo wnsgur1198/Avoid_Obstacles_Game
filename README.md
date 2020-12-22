@@ -4,17 +4,23 @@
 ![](readme-img/header.png)
 ![](readme-img/header2.png)
 
-## Installation
+## 개발기간
+* 2019.10.05.~2019.11.23. (약2개월)
 
--
 
-## Usage example
+## 주요 기능
+* 유니티 게임엔진을 이용한 장애물 피하기 게임 개발
+* 게임 배경은 3D 해저 이미지 사용
 
-유니티 게임엔진을 이용한 장애물 피하기 게임 개발
+
+## 특이사항
+* IoT스마트메이커스 교육 프로그램에서 수행함
+* '바닷속에서 장애물을 피해 나아간다'는 기획된 스토리를 게임으로 구현함
+
 
 ## Development setup
+* Unity3D 2019
 
-Unity 2019
 
 ## Release History
 
@@ -22,16 +28,7 @@ Unity 2019
     * first
     * 개발 완료
 
-## Meta
 
-김준혁 – wnsgur1198@naver.com
+## Contact
 
-## Contributing
-
-1. Fork it (<https://github.com/yourname/yourproject/fork>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
-
-<!-- Markdown link & img dfn's -->
+김준혁 – kimjunhyeok.it@gmail.com
